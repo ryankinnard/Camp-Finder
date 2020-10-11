@@ -10,7 +10,7 @@ var express = require("express"),
 	User = require("./models/user"),
 
 // Requiring routes
-var commentRoutes = require("./routes/comments"),
+const commentRoutes = require("./routes/comments"),
 	campgroundRoutes = require("./routes/campgrounds"),
 	indexRoutes = require("./routes/index");
 
