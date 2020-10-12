@@ -14,8 +14,7 @@ const commentRoutes = require("./routes/comments"),
 	campgroundRoutes = require("./routes/campgrounds"),
 	indexRoutes = require("./routes/index");
 
-const mongoose = require('mongoose'),
-	  port = 3500
+const mongoose = require('mongoose');
 
 mongoose.connect('mongodb://localhost:27017/yelp_camp', {
 	useNewUrlParser: true,
@@ -56,9 +55,9 @@ app.use("/", indexRoutes);
 app.use("/campgrounds", campgroundRoutes);
 app.use("/campgrounds/:id/comments", commentRoutes);
 
-app.listen(port, () => {
-  console.log(`App listening at http://localhost:${port}`)
-})
-
+var port = process.env.PORT || 3000;
+app.listen(port, function () {
+  console.log("Server Has Started!");
+});
 
 
