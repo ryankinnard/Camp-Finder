@@ -16,7 +16,7 @@ const commentRoutes = require("./routes/comments"),
 
 const mongoose = require('mongoose');
 
-mongoose.connect('mongodb://localhost:27017/yelp_camp', {
+mongoose.connect('mongodb+srv://ryan:Bruins3794!@cluster0.z5ga7.mongodb.net/<dbname>?retryWrites=true&w=majority', {
 	useNewUrlParser: true,
   	useUnifiedTopology: true,
 	useFindAndModify: false
