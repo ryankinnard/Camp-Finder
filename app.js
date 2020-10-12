@@ -16,13 +16,23 @@ const commentRoutes = require("./routes/comments"),
 
 const mongoose = require('mongoose');
 
-mongoose.connect('mongodb+srv://ryan:Bruins3794!@cluster0.z5ga7.mongodb.net/<dbname>?retryWrites=true&w=majority', {
+mongoose.connect('mongodb://localhost:27017/yelp_camp', {
 	useNewUrlParser: true,
   	useUnifiedTopology: true,
 	useFindAndModify: false
 })
 .then(() => console.log('Connected to DB'))
 .catch(error => console.log(error.message));
+
+/*mongoose.connect('mongodb+srv://ryan:Bruins3794!@cluster0.z5ga7.mongodb.net/<dbname>?retryWrites=true&w=majority', {
+	useNewUrlParser: true,
+  	useUnifiedTopology: true,
+	useFindAndModify: false
+})
+.then(() => console.log('Connected to DB'))
+.catch(error => console.log(error.message));
+*/
+
 
 app.use(bodyParser.urlencoded({extended: true}));
 app.set("view engine", "ejs");
