@@ -9,7 +9,9 @@ https://blooming-mesa-65054.herokuapp.com/
 
 <ul>
   <li>Authentication:
-  <li> Username and password login</li>
+    <ul>
+    <li> Username and password login</li>
+    </ul>
   </li>
   
   <li>
