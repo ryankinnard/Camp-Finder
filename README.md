@@ -30,6 +30,6 @@ https://blooming-mesa-65054.herokuapp.com/
   </li>
   
   <li>Success or failure messages</li>
-  <li>Responsive web design<li>
+  <li>Responsive web design</li>
   
 </ul>
