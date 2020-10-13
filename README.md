@@ -7,7 +7,7 @@ https://blooming-mesa-65054.herokuapp.com/
 
 <h3>Features</h3>
 
-<ol>
+<ul>
   <li>Authentication:
   <li> Username and password login</li>
   </li>
@@ -26,4 +26,4 @@ https://blooming-mesa-65054.herokuapp.com/
   <li>Success or failure messages</li>
   <li>Responsive web design<li>
   
-</ol>
+</ul>
