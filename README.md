@@ -18,13 +18,15 @@ https://blooming-mesa-65054.herokuapp.com/
   Authorization:
   <ul>
     <li>Must be logged in to comment and create campgrounds</li>
-    <li>Only users who created campground can edit that campground<li>
-    <li>Users can only edit/delete their own comments<li>
+    <li>Only users who created campground can edit that campground</li>
+    <li>Users can only edit/delete their own comments</li>
   </ul>
   </li>
   
   <li>User Accounts:
+  <ul>
   <li>Profile page containing sign up information</li>
+  </ul>
   </li>
   
   <li>Success or failure messages</li>
