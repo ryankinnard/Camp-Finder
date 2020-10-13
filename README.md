@@ -33,3 +33,26 @@ https://blooming-mesa-65054.herokuapp.com/
   <li>Responsive web design</li>
   
 </ul>
+
+<h3>Built with</h3>
+
+<h4>Front-end</h4>
+
+<ul>
+  <li>ejs</li>
+  <li>Bootstrap</li>
+</ul>
+
+<h4>Back-end</h4>
+
+<ul>
+  <li>MongoDB</li>
+  <li>mongoose</li>
+  <li>express</li>
+  <li>express-session</li>
+  <li>async</li>
+  <li>passport</li>
+  <li>passport-local</li>
+  <li>method-override</li>
+  <li>connect-flash</li>
+</ul>
