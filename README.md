@@ -56,3 +56,6 @@ https://blooming-mesa-65054.herokuapp.com/
   <li>method-override</li>
   <li>connect-flash</li>
 </ul>
+
+![Screenshot](https://github.com/ryankinnard/Camp-Finder/blob/master/images/camp.png)
+
