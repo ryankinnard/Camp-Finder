@@ -5,7 +5,7 @@ A web application built with Node.js. Camp Finder is a camping database where us
 <h3>Demo</h3>
 https://blooming-mesa-65054.herokuapp.com/
 
-## Video Walkthrough
+<h3>Video Walkthrough</h3>
 
 <img src='Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
