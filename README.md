@@ -51,14 +51,14 @@ https://blooming-mesa-65054.herokuapp.com/
 
 <ul>
   <li>MongoDB</li>
-  <li>mongoose</li>
-  <li>express</li>
-  <li>express-session</li>
-  <li>async</li>
-  <li>passport</li>
-  <li>passport-local</li>
-  <li>method-override</li>
-  <li>connect-flash</li>
+  <li>Mongoose</li>
+  <li>Express</li>
+  <li>Express-session</li>
+  <li>Async</li>
+  <li>Passport</li>
+  <li>Passport-local</li>
+  <li>Method-override</li>
+  <li>Connect-flash</li>
 </ul>
 
 
