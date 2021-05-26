@@ -1,15 +1,15 @@
-## Camp-Finder
+# Camp-Finder
 
 A web application built with Node.js. Camp Finder is a camping database where users can upload their own campgrounds and post comments.
 
-# Demo
+## Demo
 https://blooming-mesa-65054.herokuapp.com/
 
 <h3>Video Walkthrough</h3>
 
 <img src='Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-# Features
+## Features
 
 <ul>
   <li>Authentication:
@@ -38,7 +38,7 @@ https://blooming-mesa-65054.herokuapp.com/
   
 </ul>
 
-# Built With
+## Built With
 
 <h4>Front-end</h4>
 
