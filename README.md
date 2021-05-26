@@ -9,7 +9,7 @@ https://blooming-mesa-65054.herokuapp.com/
 
 <img src='Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<h3>Features</h3>
+# Features
 
 <ul>
   <li>Authentication:
@@ -38,12 +38,12 @@ https://blooming-mesa-65054.herokuapp.com/
   
 </ul>
 
-<h3>Built with</h3>
+# Built With
 
 <h4>Front-end</h4>
 
 <ul>
-  <li>ejs</li>
+  <li>EJS</li>
   <li>Bootstrap</li>
 </ul>
 
